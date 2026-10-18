@@ -1,0 +1,16 @@
+[
+  {
+    "Protocol": "Both",
+    "Port": 30121,
+    "Ref": "ServerPort",
+    "Name": "Server Port",
+    "Description": "FiveM gameplay traffic"
+  },
+  {
+    "Protocol": "TCP",
+    "Port": 40121,
+    "Ref": "TxAdminPort",
+    "Name": "txAdmin Web Interface",
+    "Description": "txAdmin management; keep LAN/VPN only"
+  }
+]
